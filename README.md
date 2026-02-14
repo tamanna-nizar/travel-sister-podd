@@ -9,6 +9,7 @@
 - Member 2: Ayshath Fahiza S A - LBS COLLEGE OF ENGINEERING KASARAGOD
 
 ### Hosted Project Link
+https://travel-sister-pod1.vercel.app/
 [https://github.com/tamanna-nizar/travel-sister-pod](https://github.com/tamanna-nizar/travel-sister-pod)
 
 ### Project Description
